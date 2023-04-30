@@ -1,0 +1,17 @@
+[
+  {
+    "link": "https://linkshub.vercel.app/",
+    "title": "LinksHub",
+    "img": " ../public/images/linkshub.png",
+    "description": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software libraries, frameworks, and other tools that can be used to build and deploy applications and websites.",
+    "ghLink": "https://github.com/rupali-codes/LinksHub"
+  },
+  {
+    "link": "https://projectshut.vercel.app/",
+    "title": "ProjectsHub",
+    "img": " ../public/images/PH.png",
+   "description": "ProjectsHut is an open source project that runs on the latest web technologies. ProjectsHut offers a user-friendly interface, making it easy to publish projects and share them with others. Whether you're a seasoned professional or just starting out, it's a valuable resource for sharing your work and making connections in the tech community. With its Open Source design."
+,
+    "ghLink": "https://github.com/priyankarpal/ProjectsHut"
+  }
+]
