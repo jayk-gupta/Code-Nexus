@@ -6,11 +6,11 @@ import data from "../database/data.json";
 export default function Card() {
   return (
     <div>
-      {data.map((item) => {
+      {data.map((item, i) => {
         return (
           <div
-            key={item.id}
-            className="mx-auto card-1 bg-[#8800ff] items-center  w-11/12 flex gap-24 rounded-lg p-12 text-white shadow-2xl relative hover:shadow-3xl mb-12"
+            key={i}
+            className="mx-auto bg-[#8800ff] items-center  w-11/12 flex gap-24 rounded-lg p-12 text-white shadow-2xl relative hover:shadow-3xl mb-12"
           >
             <a href={item.link}>
               <div className="h-[12rem] w-[20rem]">
@@ -29,10 +29,13 @@ export default function Card() {
               <p className="w-5/6 text-lg font-inter">{item.description}</p>
             </div>
             <div className="flex flex-col gap-12 justify-between bg-purple-500 h-full py-12 px-4 absolute right-0 rounded-tr-lg rounded-br-lg">
-              <a href={`item.github-link`}>
+              <a href={item.ghLink} target="_blank"
+                rel="noopener noreferrer"
+              >
                 <BiGitRepoForked className="text-3xl text-[#062a64] hover:text-white" />
               </a>
-              <a href={item.link}>
+              <a href={item.link} target="_blank"
+                rel="noopener noreferrer">
                 <BsFillArrowUpRightCircleFill className="text-3xl text-[#062a64] hover:text-white" />
               </a>
             </div>
