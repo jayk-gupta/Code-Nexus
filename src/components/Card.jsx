@@ -1,17 +1,15 @@
-// eslint-disable-next-line no-unused-vars
-import React from "react";
-import data from "../database/data.json";
 import { BiGitRepoForked } from "react-icons/bi";
 import { BsFillArrowUpRightCircleFill } from "react-icons/bs";
-import 
+import data from "../database/data.json";
 
-export const Card = ({link,title,img,description,ghLink}) => {
+
+export default function Card() {
   return (
     <div>
       {data.map((item) => {
         return (
           <div
-            key={item.title}
+            key={item.id}
             className="mx-auto card-1 bg-[#8800ff] items-center  w-11/12 flex gap-24 rounded-lg p-12 text-white shadow-2xl relative hover:shadow-3xl mb-12"
           >
             <a href={item.link}>
@@ -42,5 +40,5 @@ export const Card = ({link,title,img,description,ghLink}) => {
         );
       })}
     </div>
-  );
+  )
 }
