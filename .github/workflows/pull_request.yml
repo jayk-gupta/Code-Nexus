@@ -1,0 +1,16 @@
+name: Your Workflow Name
+on:
+  pull_request:
+    types: [opened, edited]
+
+
+jobs:
+  your-job-name:
+     run-on: ubuntu-latest
+     steps:
+     - name: chekout code
+       uses: actions/checkout@v2
+      - name:  Set pull request template
+          run: |
+             cat PULL_REQUEST_TEMPLATE.md > .github/pull_request_template.md
+                                                                    
