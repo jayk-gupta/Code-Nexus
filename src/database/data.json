@@ -12,5 +12,12 @@
     "img": "https://user-images.githubusercontent.com/88102392/235366951-ffc5cc9a-d74c-484c-8c25-12de3969cf1c.png",
     "description": "ProjectsHut is an open source project that runs on the latest web technologies. ProjectsHut offers a user-friendly interface, making it easy to publish projects and share them with others. Whether you're a seasoned professional or just starting out, it's a valuable resource for sharing your work and making connections in the tech community. With its Open Source design.",
     "ghLink": "https://github.com/priyankarpal/ProjectsHut"
+  },
+  {
+    "link": "https://linkfree.io/",
+    "title": "LinkFree",
+    "img": "https://user-images.githubusercontent.com/624760/230707268-1f8f1487-6524-4c89-aae2-ab45f0e17f39.png",
+  "description": "LinkFree is the Open Source alternative to LinkTree. A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going. Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.",
+    "ghLink": "https://github.com/EddieHubCommunity/LinkFree"
   }
 ]
