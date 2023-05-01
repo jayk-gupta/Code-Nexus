@@ -19,14 +19,13 @@ To find a project that interests you, simply browse the list and click on the li
 
 
 ## Getting Started
-Cloning the Repository
 To clone the repository to your local machine, follow these steps:
 
 1. Go to the main page of the repository on Github.
 2. Click on the "Code" button and copy the URL provided.
 3. Open the terminal or command prompt on your computer.
 4. Navigate to the directory where you want to clone the repository.
-5. Type the command git clone [https://github.com/jayk-gupta/Code-Nexus](This will download the repository to your local machine)
+5. Type the command git clone [https://github.com/jayk-gupta/Code-Nexus] (This will download the repository to your local machine)
 
 ## Running the Project Locally
 
@@ -35,11 +34,28 @@ To clone the repository to your local machine, follow these steps:
 3. pnpm install (Install dependencies)
 4. pnpm dev (This will launch the project in your local browser or terminal)
 
-## Contributing to the Project
+## Adding new Project to the list
 
-If you know of a project that would be a good fit for this list, please feel free to submit a pull request. All contributions are welcome, and we're especially interested in projects that are actively looking for new contributors.
+If you know of a project that would be a good fit for this list, please feel free to submit a pull request.
+All contributions are welcome, and we're especially interested in projects that are actively looking for new contributors.
+Here are the general steps to add a new project to your open-source project:
 
-When submitting a new project, please include the following information:
+1. Navigate to the database folder in the src directory of your project.
+2. Locate the data.json file and open it in a text editor.
+3. Find the projects array in the data.json file.
+4. Add a new object to the projects array in the following format:
+
+```
+   {
+    "link": "Your project live link",
+    "title": "Project Title",
+    "img": "Insert Project Image url",
+    "description": "Provide description of your project",
+    "ghLink": "Your Project repository link"
+  }
+```
+
+## Contributing 
 We welcome contributions to this project! To contribute, follow these steps:
 
 1. Fork the repository.
