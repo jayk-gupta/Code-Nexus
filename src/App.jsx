@@ -5,9 +5,9 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App sm:w-full">
       <Nav />
-      <h1 className="text-4xl text-center pt-6 pb-12">
+      <h1 className="text-2xl md:text-4xl text-center pt-6 pb-12">
         List of Beginner Friendly OpenSource Projects
       </h1>
       <Card />
