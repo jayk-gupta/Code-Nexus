@@ -19,5 +19,13 @@
     "img": "https://user-images.githubusercontent.com/125730836/235502612-9d12dc55-4e69-41b0-9719-7291ea9fb6de.png",
     "description": "devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.",
     "ghLink": "https://github.com/Madanraj0519/devFind"
+},
+{
+    "link": "https://linkfree.io/",
+    "title": "LinkFree",
+    "img": "https://user-images.githubusercontent.com/624760/230707268-1f8f1487-6524-4c89-aae2-ab45f0e17f39.png",
+  "description": "LinkFree is the Open Source alternative to LinkTree. A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going. Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.",
+    "ghLink": "https://github.com/EddieHubCommunity/LinkFree"
+
   }
 ]
