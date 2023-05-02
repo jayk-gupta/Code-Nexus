@@ -22,7 +22,7 @@ export default function Card() {
             </a>
             {/* Content */}
             <div className="content  flex flex-col  py-4 pr-4 md:p-2 ">
-              <a href="https://linkshub.vercel.app/">
+              <a href={item.link}>
                 <h2 className="text-sm text-purple-200  mb-6 tracking-[0.1rem] font-bold hover:text-[white] md:text-3xl">
                   {item.title}
                 </h2>
