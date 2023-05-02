@@ -19,5 +19,12 @@
     "img": "https://user-images.githubusercontent.com/624760/230707268-1f8f1487-6524-4c89-aae2-ab45f0e17f39.png",
   "description": "LinkFree is the Open Source alternative to LinkTree. A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going. Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.",
     "ghLink": "https://github.com/EddieHubCommunity/LinkFree"
+  },
+  {
+    "link": "https://free-hit.vercel.app/",
+    "title": "Free-Hit",
+    "img": "https://i.ibb.co/km7ZQ5p/free-logo.png",
+    "description": "Free-Hit is an application that is used to search for Free tools that are both free and helpful for our needs",
+    "ghLink": "https://github.com/JasonDsouza212/free-hit"
   }
 ]
