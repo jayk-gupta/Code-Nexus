@@ -1,9 +1,16 @@
+import React,{useEffect} from "react";
 import "./index.css";
 import Card from "./components/Card";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
+import analytics from "@vercel/analytics";
 
 function App() {
+  
+  useEffect(() => {
+    analytics("prj_6Zo6t3kALBMsu6jR7D93Giec6Z8Z");
+  }, []);
+  
   return (
     <div className="App sm:w-full">
       <Nav />
