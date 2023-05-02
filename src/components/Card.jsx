@@ -1,11 +1,20 @@
 import { BiGitRepoForked } from "react-icons/bi";
 import { BsFillArrowUpRightCircleFill } from "react-icons/bs";
 import data from "../database/data.json";
-
+import React,{useState} from "react";
 export default function Card() {
+  // useState 
+  const [numProjects, setNumProjects] = useState(5);
+  const [totalProjects, setTotalProjects] = useState(data.length);
+
+  // function to load more projects
+  const loadMore = () => {
+    setNumProjects(numProjects + 5);
+  };
+
   return (
     <div>
-      {data.map((item, i) => {
+      {data.slice(0, numProjects).map((item, i) => {
         return (
           <div
             key={i}
@@ -47,6 +56,16 @@ export default function Card() {
           </div>
         );
       })}
+      {/* Load More Button */}
+      {numProjects < totalProjects && (
+        <button
+          onClick={loadMore}
+          className="text-xl mx-auto block bg-purple-300 rounded-xl hover:bg-purple-400 hover:text-white p-2
+          my-6 md:mt-2 md:mb-12  md:px-4 md:py-2 "
+        >
+          Load more
+        </button>
+      )}
     </div>
   );
 }

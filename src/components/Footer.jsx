@@ -3,8 +3,8 @@ import { AiOutlineGithub } from "react-icons/ai";
 
 export const Footer = () => {
   return (
-    <div className="bg-purple-200 text-center py-4">
-      <p className="tracking-wider">
+    <div className="bg-purple-200 text-center py-4 px-4">
+      <p className="md:tracking-wider">
         If you find our project useful, please consider giving it a{" "}
         <span>
           <a
@@ -23,7 +23,7 @@ export const Footer = () => {
         >
           <AiOutlineGithub className="text-purple-700 text-2xl inline-block ml-2" />
         </a>
-        <p>Copyright © 2023 Code Nexus | All rights reserved | MIT License</p>
+        <p className="mt-2">Copyright © 2023 Code Nexus | All rights reserved | MIT License</p>
       </p>
     </div>
   );
