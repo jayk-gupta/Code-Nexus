@@ -1,15 +1,10 @@
-import React,{useEffect} from "react";
 import "./index.css";
 import Card from "./components/Card";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
-import analytics from "@vercel/analytics/react";
 
 function App() {
 
-  useEffect(() => {
-    analytics("prj_6Zo6t3kALBMsu6jR7D93Giec6Z8Z");
-  }, []);
   
   return (
     <div className="App sm:w-full">
@@ -24,3 +19,6 @@ function App() {
 }
 
 export default App;
+
+
+// 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 
