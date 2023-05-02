@@ -3,7 +3,7 @@ import "./index.css";
 import Card from "./components/Card";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
-import {analytics} from "@vercel/analytics/react";
+import analytics from "@vercel/analytics/react";
 
 function App() {
 
