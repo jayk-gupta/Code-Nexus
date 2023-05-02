@@ -56,7 +56,8 @@ Here are the general steps to add a new project to your open-source project:
 ```
 
 ## Contributing 
- To see the Contributing guidelines and steps go to CONTRIBUTING.md file
+We welcome contributions from the community! 
+If you're interested in contributing to this project, please read our [contribution guidelines](CONTRIBUTING.md) for more information on how to get started.
 
 ## License
 
