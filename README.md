@@ -37,6 +37,7 @@ To clone the repository to your local machine, follow these steps:
 ## Adding new Project to the list
 
 If you know of a project that would be a good fit for this list, please feel free to submit a pull request.
+
 All contributions are welcome, and we're especially interested in projects that are actively looking for new contributors.
 Here are the general steps to add a new project to your open-source project:
 
