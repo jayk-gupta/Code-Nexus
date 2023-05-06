@@ -26,5 +26,12 @@
     "img": "https://i.ibb.co/km7ZQ5p/free-logo.png",
     "description": "Free-Hit is an application that is used to search for Free tools that are both free and helpful for our needs",
     "ghLink": "https://github.com/JasonDsouza212/free-hit"
+  },
+  {
+    "link": "https://dev-find.vercel.app/",
+    "title": "devFind
+    "img": "https://i.ibb.co/2Ms8xVg/dev-find-vercel-app.png",
+    "description": "devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.",
+    "ghLink": "https://github.com/shyamtawli/devFind"
   }
 ]
