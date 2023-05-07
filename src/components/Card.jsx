@@ -18,7 +18,7 @@ export default function Card() {
         return (
           <div
             key={i}
-            className="mx-auto bg-[#8800ff]  w-5/6 flex-col flex p-6 rounded-lg shadow-2xl text-white relative md:hover:shadow-3xl mb-12 md:w-11/12 md:flex-row  md:gap-24  md:p-12"
+            className="mx-auto bg-[#8800ff]  w-5/6 flex-col flex p-6 rounded-lg shadow-2xl text-white relative md:hover:shadow-3xl mb-12 md:w-11/12 md:flex-row items-center md:gap-24  md:p-12"
           >
             {/* image */}
             <a href={item.link}>
