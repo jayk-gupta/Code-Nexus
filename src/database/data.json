@@ -33,5 +33,12 @@
     "img": "https://i.ibb.co/2Ms8xVg/dev-find-vercel-app.png",
     "description": "devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.",
     "ghLink": "https://github.com/shyamtawli/devFind"
+  },
+  {
+    "link": "https://windtails.vercel.app/",
+    "title": "Wind Tails",
+    "img": "https://github.com/dcryptoniun/Wind-Tails/assets/85307647/797e032c-42c4-444e-a7f6-4cb5f734b2b9",
+    "description": "Wind-Tails, an Open Source application for Tailwind CSS Prebuilt Components. You don't need to go anywhere to search for your required tailwind classes. Find here, a visual representation of the effects of various classes, along with a playground which shows in real-time the effect of tweaking various parameters of the class",
+    "ghLink": "https://github.com/dcryptoniun/Wind-Tails"
   }
 ]
