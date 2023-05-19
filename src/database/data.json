@@ -1,5 +1,12 @@
 [
   {
+    "link": "https://web-resources-hub-project.vercel.app/",
+    "title": "Web Resources Hub",
+    "img": " ",
+    "description": "Web Resource Hub is an open-source project which serves as a comprehensive collection of frontend web resources, including HTML, CSS, JavaScript, and React. The project aims to provide developers with a centralized platform to access a wide range of frontend tools and resources, making their development process more efficient and productive.",
+    "ghLink": "https://github.com/jayk-gupta/web-resources-project"
+  },
+  {
     "link": "https://linkshub.vercel.app/",
     "title": "LinksHub",
     "img": " https://user-images.githubusercontent.com/88102392/235366922-4160ae75-ee11-49df-b680-331bf111ec7d.png",
@@ -17,7 +24,7 @@
     "link": "https://linkfree.io/",
     "title": "LinkFree",
     "img": "https://user-images.githubusercontent.com/624760/230707268-1f8f1487-6524-4c89-aae2-ab45f0e17f39.png",
-  "description": "LinkFree is the Open Source alternative to LinkTree. A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going. Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.",
+    "description": "LinkFree is the Open Source alternative to LinkTree. A platform where people in tech can have a single hub to showcase their content in order to accelerate their career, whilst contributing to an Open Source project and being part of a community that has a say in where the project is going. Your profile will have links to your social media and content. You can also add your timeline, testimonials, and upcoming events that you are participating in.",
     "ghLink": "https://github.com/EddieHubCommunity/LinkFree"
   },
   {
