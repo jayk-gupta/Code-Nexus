@@ -1,6 +1,8 @@
 # The Code Nexus
 The Code Nexus is a curated list of beginner-friendly open source projects that are suitable for people who are new to open source development. The goal of this project is to provide an easy way for beginners to find open source projects that are welcoming and supportive of new contributors.
 
+![Screenshot 2023-05-20 125055](https://github.com/jayk-gupta/Code-Nexus/assets/100681165/e9f3c4e7-276f-4b21-a6e1-fabd04126e25)
+
 
 ## Introduction
 
