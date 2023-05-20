@@ -10,11 +10,11 @@ By forking the repository, you will have your own version of the repository unde
 
 For example, if your username is "johnsmith", the repository will be created as "johnsmith/Code-Nexus", mirroring the original repository "jayk-gupta/Code-Nexus".
 
-![App Screenshot](https://pbs.twimg.com/media/FvrdJvhaMAA_q6d?format=jpg&name=small)
+![1g](https://github.com/jayk-gupta/Code-Nexus/assets/100681165/97516ba6-cd95-4b9e-9ced-f16b409812dd)
+
 
 Once you have forked your repository, go to your profile inside the repository section you will find your forked repository.
 
-![App Screenshot](https://pbs.twimg.com/media/FvrhkdGaQAAx0AF?format=jpg&name=small)
 
 ## Step 2: Clone the Forked Repository 
 Once you locate your repository you need to clone it to your local machine.
@@ -23,7 +23,8 @@ Click on the "Code" button located on the repository's page.
 
 Copy the link provided in the dropdown menu.
 
-![App Screenshot](https://pbs.twimg.com/media/FvrlsEXaAAMY6cl?format=jpg&name=small)
+![2g](https://github.com/jayk-gupta/Code-Nexus/assets/100681165/a033c319-b5f5-49d1-8bb9-1a144bce2416)
+
 
 On your local machine, open Git Bash.
 
